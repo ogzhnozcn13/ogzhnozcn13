@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React JS** -->
 
+
+<img src="https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif" />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/oğuzhan-özcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oğuzhan-özcan" height="30" width="40" /></a>
