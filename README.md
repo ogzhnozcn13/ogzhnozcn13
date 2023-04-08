@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan,</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
+
 <!-- - 🔭 I’m currently working on **HTML, CSS, JS, React JS**
 
 - 🌱 I’m currently learning **React JS** -->
+
 <p align="center"> <img src="https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif" /> </P>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
